@@ -1,4 +1,4 @@
-/*Bai toan: Nhap vao mot so, doc gia tri so nguyen do neu no co gia tri tu 1 den 9, nguoc lai thong bao khong doc duoc*/
+/* Bai toan: Nhap vao mot so, doc gia tri so nguyen do neu no co gia tri tu 1 den 9, nguoc lai thong bao khong doc duoc*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
